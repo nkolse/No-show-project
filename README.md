@@ -1,0 +1,2 @@
+# Medical Appointment Analysis
+This dataset consists of information of about 100k medical appointments in Brazil. The main focus of the dataset is to predict whether the patients showed up for their appointments or not.
